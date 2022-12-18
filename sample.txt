@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 first
 second
 third
+=======
+first
+>>>>>>> parent of 0861dac (second commit)
